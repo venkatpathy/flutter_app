@@ -11,8 +11,6 @@ buildscript {
     }
 }
 
-compile 'net.hockeyapp.android:HockeySDK:5.1.1'
-
 allprojects {
     repositories {
         google()
